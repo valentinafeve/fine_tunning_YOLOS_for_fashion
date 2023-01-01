@@ -491,7 +491,7 @@ plot_results(random_item['image'], random_item['objects']['bbox'], idx_to_text(r
 
 
     
-![png](Fine_tunning_YOLOs_for_fashion_files/Fine_tunning_YOLOs_for_fashion_13_1.png)
+![png](Fine_tuning_YOLOS_for_fashion_files/Fine_tuning_YOLOS_for_fashion_13_1.png)
     
 
 
@@ -629,7 +629,7 @@ plot_results(pil_image, boxes, idx_to_text(class_labels.tolist()))
 
 
     
-![png](Fine_tunning_YOLOs_for_fashion_files/Fine_tunning_YOLOs_for_fashion_23_0.png)
+![png](Fine_tuning_YOLOS_for_fashion_files/Fine_tuning_YOLOS_for_fashion_23_0.png)
     
 
 
